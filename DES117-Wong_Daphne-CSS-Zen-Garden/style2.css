@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body {
+    background: linear-gradient(to bottom right, pink, lightblue);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-size: 12pt;
+    
+}
+
+div {
+font-family: 'Amatic SC', cursive;
+
+}
+
+
+h1 {
+    font-weight:800;
+    font-size: 56pt;
+    color: white;
+    background-image: url(zen2.jpg);
+    background-size: 40%;
+}
+
+h2, .summary, .preamble, .explanation, .participation, .benefits, .requirements, .select, .archives, ul, footer, .resources {
+    background-color: grey;
+    
+}

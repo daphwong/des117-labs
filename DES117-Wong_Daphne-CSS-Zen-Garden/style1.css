@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+
+body {
+    
+    background-image: url('zen1.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+    font-size: 12pt;
+    
+}
+
+div {
+   font-family: 'Raleway', sans-serif;   
+}
+
+
+h1 {
+    font-weight:600;
+    font-size: 48pt;
+    color: black;
+}
+
+h2, .summary, .preamble, .explanation, .participation, .benefits, .requirements, .select, .archives, ul, footer, .resources {
+    background-color: white;
+    
+}
